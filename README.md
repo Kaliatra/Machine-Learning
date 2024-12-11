@@ -36,12 +36,6 @@ Whether for education, travel, or personal enrichment, **Kaliatra** makes Baline
 - **TFLite** – For model optimization and deployment.
 - **TensorFlow.js** – For deploying models to web applications.
 
-#### **Cloud Computing (CC)** ☁️
-*(Details to be provided by the Cloud Computing team)*
-
-#### **Mobile Development (MD)** 📱
-*(Details to be provided by the Mobile Development team)*
-
 ---
 
 ### 🌟 **Features of Kaliatra**
@@ -63,10 +57,7 @@ Whether for education, travel, or personal enrichment, **Kaliatra** makes Baline
 
 6. **User-Friendly Interface**  
    Intuitive design ensuring a seamless experience for users of all ages.
-
-7. **Offline Support**  
-   Access core functionalities even without an internet connection (depending on deployment configuration).
-
+   
 ---
 
 ### 🎨 **Why Kaliatra?**
