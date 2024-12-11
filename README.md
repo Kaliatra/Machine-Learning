@@ -1,7 +1,3 @@
-Here's a beautifully crafted **README** file for your project. This version uses Markdown (`.md`) format, which works perfectly for GitHub and other repositories. It highlights your team, the project, and its features with an artistic touch.
-
----
-
 ## 🌺 **Kaliatra: Preserving the Beauty of Balinese Aksara** 🖋️
 
 ---
@@ -92,7 +88,3 @@ Whether for education, travel, or personal enrichment, **Kaliatra** makes Baline
 ---
 
 ### **[🚀 Start Exploring Kaliatra Now!]**
-
----
-
-Feel free to customize this further with logos, images, or links as needed! 😊
