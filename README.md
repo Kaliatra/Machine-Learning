@@ -38,44 +38,17 @@ Whether for education, travel, or personal enrichment, **Kaliatra** makes Baline
 
 ---
 
-### 🌟 **Features of Kaliatra**
+#### **Accuracy and Loss for Handwriting Model**
+![WhatsApp Image 2024-12-11 at 21 02 41_f017db31](https://github.com/user-attachments/assets/2b7733de-d486-4d18-93ed-d345f3104a95)
 
-1. **Balinese Aksara to Latin Translation**  
-   Convert traditional Balinese script (Aksara Bali) into Latin characters accurately using machine learning models.
+#### **Accuracy and Loss for Aksara Recognition Model**
+![WhatsApp Image 2024-12-11 at 21 08 48_ea41fb25](https://github.com/user-attachments/assets/ecf3a4f4-dc99-46c3-82c8-11bab8d77e28)
 
-2. **Image Recognition**  
-   Capture or upload images containing Balinese script, and let **Kaliatra** recognize and translate them effortlessly.
+#### **Example of Handwriting Classifier**
+![WhatsApp Image 2024-12-11 at 21 03 03_db030e6d](https://github.com/user-attachments/assets/37d73ec7-f393-40ed-aebd-88da2d2ac24e)
 
-3. **Interactive Drawing Canvas**  
-   Draw Aksara Bali characters directly on the app's canvas for instant translation feedback.
+#### **Example of Aksara Recognition Model**
+![WhatsApp Image 2024-12-11 at 21 08 48_8d1025b7](https://github.com/user-attachments/assets/06ab5f4e-3166-4f56-96d4-8a8b3cdf005a)
 
-4. **Top 3 Predictions**  
-   View the top three predicted translations with confidence scores to ensure accuracy.
-
-5. **Preservation of Cultural Heritage**  
-   Promote the learning and appreciation of Balinese culture and language in a modern digital format.
-
-6. **User-Friendly Interface**  
-   Intuitive design ensuring a seamless experience for users of all ages.
-   
----
-
-### 🎨 **Why Kaliatra?**
-
-🌴 **Kaliatra** is more than just an app; it's a bridge between tradition and technology. By making Balinese Aksara accessible to a wider audience, we hope to keep this beautiful script alive and thriving in the digital age.
-
----
-
-**✨ Let's preserve, learn, and celebrate Balinese heritage together with Kaliatra! ✨**
-
---- 
-
-📝 **License:** Apache License 2.0
-
----
-
-📚 **Made with passion by the students of Institut Teknologi dan Bisnis STIKOM Bali**
-
----
 
 ### **[🚀 Start Exploring Kaliatra Now!]**
