@@ -24,6 +24,7 @@ Whether for education, travel, or personal enrichment, **Kaliatra** makes Baline
 
 #### **Machine Learning (ML)** 🤖
 - **TensorFlow** – For model creation and training.
+- **TensorFlowJS** – For converting model to be used in CC.
 - **Keras** – Simplified interface for building deep learning models.
 - **NumPy** – For efficient numerical computations.
 - **Pandas** – For data processing and analysis.
