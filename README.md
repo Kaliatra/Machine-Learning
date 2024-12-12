@@ -17,10 +17,6 @@ Whether for education, travel, or personal enrichment, **Kaliatra** makes Baline
 | **Anak Agung Made Maha Prema Putra** | M113B4KY0473  | Institut Teknologi dan Bisnis STIKOM Bali           | Machine Learning     | Active      |
 | **Ni Kadek Mutia Sari**           | M113B4KX3326  | Institut Teknologi dan Bisnis STIKOM Bali           | Machine Learning     | Active      |
 | **I Putu Attia Pradiva**          | M113B4KY1871  | Institut Teknologi dan Bisnis STIKOM Bali           | Machine Learning     | Active      |
-| **Putu Agung Irvan Cahyadi**      | C113B4KY3528  | Institut Teknologi dan Bisnis STIKOM Bali           | Cloud Computing      | Active      |
-| **I Made Andre Sentanu**          | C113B4KY1852  | Institut Teknologi dan Bisnis STIKOM Bali           | Cloud Computing      | Active      |
-| **Ni Ketut Ira Permata Adi**      | A113B4KX3328  | Institut Teknologi dan Bisnis STIKOM Bali           | Mobile Development   | Active      |
-| **I Kadek Agus Pebri Eriawan**    | A113B4KY1834  | Institut Teknologi dan Bisnis STIKOM Bali           | Mobile Development   | Active      |
 
 ---
 
